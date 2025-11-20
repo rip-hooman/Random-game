@@ -55,9 +55,13 @@ Progress through all levels to complete the game!
 
 ## Levels
 Level	Type	Hint
+
 1	Cipher	Whzzdvyk:(sla tll pu)
+
 2	Riddle	What word is always spelled incorrectly?
+
 3	Number Cipher	16,1,19,19,23,15,18,4,9,19,9,12,15,22,5,2,15,25,19 (Tip: Don’t use spaces)
+
 ## Features
 
 Clean and simple console interface
